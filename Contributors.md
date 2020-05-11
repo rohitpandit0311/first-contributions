@@ -445,6 +445,7 @@
 - [Olivier Nshimiye](https://github.com/Olivier-rw)
 - [Pierre Monferrand](https://github.com/monferrand)
 - [Jesrapo](https://github.com/jesrapo)
+- [Rohit Pandit](https://github.com/rohitpandit0311)
 - [Dmitriy Makarov](https://github.com/dmxich)
 - [Moayad  Badawi](https://github.com/moayad-badawi)
 - [Adam Stolarczyk](https://github.com/apm30)
